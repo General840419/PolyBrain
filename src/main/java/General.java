@@ -1,7 +1,7 @@
 
 public class General {
 	public static void main(String[] args) {
-		System.out.println("HIGH起來!!!!");
+		System.out.println("HIGH起來OOOOOOOOOO");
 	}
 
 }
