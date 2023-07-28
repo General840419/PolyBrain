@@ -2,7 +2,7 @@ package com.mem.model;
 
 import java.util.Date;
 
-public class memVO {
+public class MemVO {
 	public class MemberVO {
 	    private int memNo;
 	    private String memName;
